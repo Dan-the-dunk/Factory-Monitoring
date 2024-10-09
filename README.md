@@ -3,7 +3,7 @@
 
 # Project Hierarchial
 
-'''
+```
 .
 ├── detection 
 │   ├── __pycache__
@@ -30,7 +30,7 @@
         │       └── __pycache__
         ├── __pycache__
         └── weights
-'''
+```
 
 # Installation
 
